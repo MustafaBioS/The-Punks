@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cnm67htuohhlo"
-path="res://.godot/imported/banner.png-7e9e6a304eef850602c8d5afb80df9c3.ctex"
+uid="uid://beppdgoenyn6w"
+path="res://.godot/imported/4.png-ae23962b519782ccb875e346fd5862e3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/dialogue_manager/assets/banner.png"
-dest_files=["res://.godot/imported/banner.png-7e9e6a304eef850602c8d5afb80df9c3.ctex"]
+source_file="res://Assets/Glass Tree Fantasy Asset Pack/8/6/4.png"
+dest_files=["res://.godot/imported/4.png-ae23962b519782ccb875e346fd5862e3.ctex"]
 
 [params]
 
